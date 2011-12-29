@@ -1,0 +1,217 @@
+# Héctor Velarde <hector.velarde@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: telesur.l10n\n"
+"POT-Creation-Date: 2011-12-24 15:48+0000\n"
+"PO-Revision-Date: 2011-08-04 17:47+0000\n"
+"Last-Translator: Héctor Velarde <hector.velarde@gmail.com>\n"
+"Language-Team: Spanish <https://github.com/collective>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Domain: collective.nitf\n"
+
+#: collective/nitf/profiles/default/types/collective.nitf.content.xml
+msgid "A news article"
+msgstr "Una nota"
+
+#: collective/nitf/templates/media_uploader.pt:43
+msgid "Add files..."
+msgstr "Agregar archivos"
+
+#: collective/nitf/config.py:13
+msgid "Analysis"
+msgstr "Análisis"
+
+#: collective/nitf/config.py:15
+msgid "Archive-Material"
+msgstr "Material de archivo"
+
+#: collective/nitf/content.py:48
+msgid "Author"
+msgstr "Autor"
+
+#: collective/nitf/controlpanel.py:18
+msgid "Available Sections"
+msgstr "Secciones disponibles"
+
+#: collective/nitf/config.py:17
+msgid "Background"
+msgstr "Contexto"
+
+#: collective/nitf/content.py:55
+msgid "Body text"
+msgstr "Cuerpo del texto"
+
+#: collective/nitf/templates/view.pt:27
+msgid "By"
+msgstr "Por"
+
+#: collective/nitf/templates/media_uploader.pt:52
+msgid "Cancel upload"
+msgstr "Cancelar archivos"
+
+#: collective/nitf/templates/display_macros.pt:58
+#: collective/nitf/templates/gallery.pt:24
+#: collective/nitf/templates/view.pt:66
+msgid "Contents"
+msgstr "Contenido"
+
+#: collective/nitf/config.py:19
+msgid "Current"
+msgstr "Actualidad"
+
+#: collective/nitf/controlpanel.py:29
+msgid "Default Genre"
+msgstr "Género por defecto"
+
+#: collective/nitf/controlpanel.py:24
+msgid "Default Section"
+msgstr "Sección por defecto"
+
+#: collective/nitf/controlpanel.py:35
+msgid "Default Urgency"
+msgstr "Urgencia por defecto"
+
+#: collective/nitf/templates/organize.pt:70
+msgid "Drag and drop images to change their order on the gallery."
+msgstr "Arrastre y suelte las imágenes para cambiar el orden en el que se muestran."
+
+#: collective/nitf/config.py:21
+msgid "Feature"
+msgstr "Crónica"
+
+#: collective/nitf/config.py:23
+msgid "Forecast"
+msgstr "Pronóstico"
+
+#: collective/nitf/content.py:62
+msgid "Genre"
+msgstr "Género"
+
+#: collective/nitf/controlpanel.py:47
+msgid "Here you can modify the settings for collective.nitf."
+msgstr "Aquí puede modificar la configuración de collective.nitf."
+
+#: collective/nitf/config.py:51
+msgid "High"
+msgstr "Alta"
+
+#: collective/nitf/config.py:25
+msgid "History"
+msgstr "Historia"
+
+#: collective/nitf/config.py:27
+msgid "Interview"
+msgstr "Entrevista"
+
+#: collective/nitf/content.py:90
+msgid "Location"
+msgstr "Localización"
+
+#: collective/nitf/config.py:53
+msgid "Low"
+msgstr "Baja"
+
+#: collective/nitf/profiles/default/types/collective.nitf.content.xml
+msgid "Media Uploader"
+msgstr ""
+
+#: collective/nitf/controlpanel.py:46
+#: collective/nitf/profiles/default/controlpanel.xml
+msgid "NITF Settings"
+msgstr "Configuración de NITF"
+
+#: collective/nitf/profiles/default/types/collective.nitf.content.xml
+msgid "News Article"
+msgstr "Nota"
+
+#: collective/nitf/config.py:52
+msgid "Normal"
+msgstr "Normal"
+
+#: collective/nitf/config.py:29
+msgid "Obituary"
+msgstr "Obituario"
+
+#: collective/nitf/config.py:31
+msgid "Opinion"
+msgstr "Opinión"
+
+#: collective/nitf/profiles/default/types/collective.nitf.content.xml
+#: collective/nitf/templates/organize.pt:69
+msgid "Organize"
+msgstr "Organizar"
+
+#: collective/nitf/config.py:33
+msgid "Polls-Surveys"
+msgstr "Encuestas/Sondeos"
+
+#: collective/nitf/config.py:35
+msgid "Profile"
+msgstr "Perfil"
+
+#: collective/nitf/templates/display_macros.pt:53
+#: collective/nitf/templates/gallery.pt:19
+#: collective/nitf/templates/view.pt:61
+msgid "Related items"
+msgstr "Contenido relacionado"
+
+#: collective/nitf/config.py:37
+msgid "Results-Listings-Tables"
+msgstr "Resultados-Listados-Tablas"
+
+#: collective/nitf/content.py:72
+#: collective/nitf/controlpanel.py:21
+msgid "Section"
+msgstr "Sección"
+
+#: collective/nitf/config.py:39
+msgid "Sidebar-Supporting-Info"
+msgstr "Material de apoyo"
+
+#: collective/nitf/templates/media_uploader.pt:48
+msgid "Start upload"
+msgstr "Comenzar a subir"
+
+#: collective/nitf/content.py:36
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: collective/nitf/config.py:41
+msgid "Summary"
+msgstr "Resumen"
+
+#: collective/nitf/config.py:43
+msgid "Transcript-Verbatim"
+msgstr "Transcripción literal"
+
+#: collective/nitf/content.py:81
+msgid "Urgency"
+msgstr "Urgencia"
+
+#. Default: "Describes the nature, journalistic or intellectual characteristic of a news object, not specifically its content."
+#: collective/nitf/content.py:63
+msgid "help_genre"
+msgstr "Describe la naturaleza, característica periodística o intelectual de una nota, no específicamente su contenido."
+
+#. Default: "Event location. Where an event took place (as opposed to where the story was written)."
+#: collective/nitf/content.py:91
+msgid "help_location"
+msgstr "El lugar donde el evento tuvo lugar (diferente del lugar donde se escribió la historia)."
+
+#. Default: "Named section where the article will appear."
+#: collective/nitf/content.py:73
+msgid "help_section"
+msgstr "Nombre de la sección en la que aparecerá la nota."
+
+#. Default: "A subordinate headline for the article."
+#: collective/nitf/content.py:37
+msgid "help_subtitle"
+msgstr "Un titular subordinado para la nota."
+
+#. Default: "News importance."
+#: collective/nitf/content.py:82
+msgid "help_urgency"
+msgstr "Importancia de la nota."
+
