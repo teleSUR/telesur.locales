@@ -1,9 +1,9 @@
 # Héctor Velarde <hector.velarde@gmail.com>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: telesur.l10n\n"
+"Project-Id-Version: telesur.locales\n"
 "POT-Creation-Date: 2011-09-11 18:59+0000\n"
-"PO-Revision-Date: 2011-09-11 18:59+0000\n"
+"PO-Revision-Date: 2011-12-29 19:39-0600\n"
 "Last-Translator: Héctor Velarde <hector.velarde@gmail.com>\n"
 "Language-Team: Spanish <https://github.com/collective>\n"
 "MIME-Version: 1.0\n"
@@ -13,32 +13,15 @@ msgstr ""
 
 #: collective/nitf/profiles/default/portal_atct.xml
 msgid "Author"
-msgstr "Autor"
-
-#: ./profiles/default/types/collective.nitf.content.xml
-msgid "Media Uploader"
-msgstr "Carga por lotes"
+msgstr "Créditos"
 
 #: collective/nitf/profiles/default/portal_atct.xml
 msgid "Named section where the article appears"
 msgstr "Nombre de la sección en la que aparece la nota"
 
 #: collective/nitf/profiles/default/portal_atct.xml
-msgid "News Type"
-msgstr "Tipo de nota"
-
-#: collective/nitf/profiles/default/portal_atct.xml
 msgid "News importance"
 msgstr "Importancia de la nota"
-
-#: ./profiles/default/types/collective.nitf.content.xml
-#: ./templates/organize.pt:78
-msgid "Organize"
-msgstr "Organizar"
-
-#: collective/nitf/profiles/default/portal_atct.xml
-msgid "Section"
-msgstr "Sección"
 
 #: collective/nitf/profiles/default/portal_atct.xml
 msgid "Subordinate headline of the article"
@@ -46,9 +29,5 @@ msgstr "El titular subordinado la nota"
 
 #: collective/nitf/profiles/default/portal_atct.xml
 msgid "Subtitle"
-msgstr "Subtítulo"
-
-#: collective/nitf/profiles/default/portal_atct.xml
-msgid "Urgency"
-msgstr "Urgencia"
+msgstr "Antetítulo"
 
