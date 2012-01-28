@@ -7,8 +7,8 @@ version = '1.0'
 
 setup(name='telesur.locales',
       version=version,
-      description="Localización de paquetes para teleSUR.",
-      long_description=open("README.txt").read() + "\n" +
+      description="Las localizaciones Español Venezuela (es-VE) para sitio Web de teleSUR.",
+      long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
