@@ -23,7 +23,7 @@ Usted puede leer el archivo ``INSTALL.txt`` dentro del directorio ``docs`` de es
 Descargas
 =========
 
-Usted puede encontrar la versión de desarrollo del paquete ``telesur.locales`` en el `repositorio desarrollotv`_ en Github.com.
+Usted puede encontrar la versión de desarrollo del paquete ``telesur.locales`` en el `repositorio teleSUR`_ en Github.com.
 
 
 Autor(es) Original(es)
@@ -36,10 +36,10 @@ Colaboraciones impresionantes
 
 * Leonardo J .Caballero G. aka macagua
 
-Para una lista actualizada de todo los colaboradores visite: https://github.com/desarrollotv/telesur.locales/contributors
+Para una lista actualizada de todo los colaboradores visite: https://github.com/teleSUR/telesur.locales/contributors
 
 .. _sitio Web de teleSUR: http://telesurtv.net/
 .. _localizaciones: http://es.wikipedia.org/wiki/Internacionalización_y_localización
-.. _collective.newsflash: https://github.com/desarrollotv/collective.newsflash
+.. _collective.newsflash: https://github.com/collective/collective.newsflash
 .. _collective.nitf: https://github.com/collective/collective.nitf
-.. _repositorio desarrollotv: https://github.com/desarrollotv/telesur.locales
+.. _repositorio teleSUR: https://github.com/teleSUR/telesur.locales
